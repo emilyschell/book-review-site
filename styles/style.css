@@ -1,0 +1,45 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav a:hover {
+  color: #f99
+}
+
+ul {
+  list-style: none;
+}
+
+header {
+  background-color: #c6eeee;
+  border: 1px solid #000;
+}
+
+main {
+  background-color: #f99;
+}
+
+h1 {
+  color: #4bae55;
+}
+
+h2 {
+  color: #555;
+}
+
+h3 {
+  color: antiquewhite;
+}
+
+h4 {
+  color: #555;
+}
+
+footer {
+  background-color: #c6eeee;
+  border: 1px solid #000;
+}
+
+.book-title {
+  font-style: italic;
+}
